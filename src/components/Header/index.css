@@ -1,0 +1,39 @@
+.nav-con {
+  height: 80px;
+  background: #1e1e30;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.website-logo {
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  color: #f8fafc;
+}
+.logo-span {
+  color: #3b82f6;
+}
+.nav-ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+  width: 140px;
+}
+.nav-home {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 16px;
+  color: #f8fafc;
+}
+.nav-about {
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 16px;
+  color: #94a3b8;
+}

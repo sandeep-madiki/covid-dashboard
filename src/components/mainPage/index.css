@@ -1,0 +1,29 @@
+.main-con {
+  background-color: #161625;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.search-el {
+  background-color: transparent;
+  width: 92%;
+  border: none;
+  outline: none;
+}
+.search-con {
+  background: #2f2f43;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  height: 38px;
+  width: 50%;
+  margin-top: 64px;
+  padding-left: 32;
+  display: flex;
+  align-items: center;
+}
+.search-icon {
+  color: #94a3b8;
+  width: 8%;
+}
