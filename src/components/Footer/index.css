@@ -1,0 +1,26 @@
+.footer-con {
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 46px;
+  padding-bottom: 46px;
+}
+.footer-icons-con {
+  list-style-type: none;
+  padding-left: 0px;
+  width: 48%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #cbd5e1;
+}
+.footer-des {
+  color: #94a3b8;
+  font-weight: 400;
+  font-size: 16px;
+}
+.logo-span {
+  color: #3b82f6;
+}

@@ -1,0 +1,43 @@
+.state-wise-stats-li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.state-wise-color {
+  color: #f1f5f9;
+  font-weight: 500;
+  font-size: 14px;
+  width: 15%;
+  text-align: center;
+}
+.state-wise-color1 {
+  color: #f1f5f9;
+  font-weight: 500;
+  font-size: 14px;
+  width: 25%;
+}
+.state-wise-color2 {
+  width: 70%;
+  line-height: 1.5;
+}
+.confirmed-count {
+  color: #ff073a;
+}
+.active-count {
+  color: #007bff;
+}
+.recovered-count {
+  color: #28a745;
+}
+.deceased-count {
+  color: #6c757d;
+}
+.population-count {
+  color: #94a3b8;
+}
+.home-link {
+  text-decoration: none;
+  color: #f1f5f9;
+}
